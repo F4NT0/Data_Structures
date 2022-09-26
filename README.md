@@ -1,4 +1,4 @@
-# $$\frak{\color{purple}\boxed{\color{lime}Data \space Structure \space and \space Algorythms}}$$
+# $$\color{purple}\boxed{\color{lime}\frak{Data \space Structure \space and \space Algorythms}}$$
 
 Languages: $\color{red}\mathbb{C}$ , $\color{orange}\mathbb{JAVA}$ , $\color{cyan}\mathbb{PYTHON}$
 
