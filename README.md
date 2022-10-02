@@ -2,6 +2,8 @@
 
 Languages: $\color{red}\mathbb{C}$ , $\color{orange}\mathbb{JAVA}$ , $\color{cyan}\mathbb{PYTHON}$
 
+Studies about data structures
+
 ---
 
 - 🚧 = Working on the informations
